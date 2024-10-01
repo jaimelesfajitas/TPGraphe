@@ -145,5 +145,7 @@ void TrouverChiffre(char[,] matrix)
     }
     //Pour le 5
 
+    
+
 }
 // TrouverChiffre(matrix);
